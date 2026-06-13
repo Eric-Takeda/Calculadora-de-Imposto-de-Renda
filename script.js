@@ -1,5 +1,3 @@
-"use strict";
-
 window.addEventListener("load", function () {
 
     let btn = document.getElementById("botao");
