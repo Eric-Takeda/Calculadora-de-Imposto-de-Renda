@@ -40,7 +40,6 @@ window.addEventListener("load", function () {
         texto.innerHTML += `
             <div>
                 <hr><br>
-
                 Registro: <b>${registro}</b><br>
                 Nome: <b>${nome}</b><br>
                 Salário: <b>R$ ${salario.toFixed(2)}</b><br>
