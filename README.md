@@ -13,7 +13,4 @@
 <footer>
 Link do Projeto:
 <p>https://eric-takeda.github.io/Calculadora-de-Imposto-de-Renda/</p>
-Créditos do criador
-<p>https://github.com/DiasEllen26</p>
-<p>https://github.com/DiasEllen26/mario-jump#demo-online-</p>
 </footer>
